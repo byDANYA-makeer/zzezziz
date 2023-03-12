@@ -1,0 +1,21 @@
+
+<html>
+    <title>турнир по пабг</title>
+    <body style="font-family:sans-serif">
+    <header style="background-color:lightblue">
+        <img src="https://sun9-78.userapi.com/impg/aO_ODOr-BgHmlXEY79qa_DkILr0McmuRA3c1rw/3ARx9-fVX5M.jpg?size=1280x1280&quality=95&sign=a82196b618099b565d28019dee452a3a&c_uniq_tag=hfMrJI0zm5hSdv7v9Q5AgaTd8dF3S23e8dL6WwCk25w&type=album" height="50px"/>
+        <a href="https://sun9-78.userapi.com/impg/aO_ODOr-BgHmlXEY79qa_DkILr0McmuRA3c1rw/3ARx9-fVX5M.jpg?size=1280x1280&quality=95&sign=a82196b618099b565d28019dee452a3a&c_uniq_tag=hfMrJI0zm5hSdv7v9Q5AgaTd8dF3S23e8dL6WwCk25w&type=album" style="color:white">История</a>
+    </header>
+
+    <main style="background-color:lightblue">
+        <h1 style="font-size:50px;background-color:lightblue; text-align:center">Турнир по пабгу<br/>
+        <img src="https://img.championat.com/i/70/73/15037470731464120400.jpg" height="150"/></h1>
+        <p style="font-size:20px">Приглашаем принять участие в турнире по пабгу. <br/>У нас представлены: <b><i>левкин,ветрел,глеб,коносуба,тати и т.д.</i></b>. Занятия ведут профессиональные тренеры в группах разного уровня.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmL9pUBhW354LwonnPnBydo5yYaMgwDZUu0A&usqp=CAU" height="130px";/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOcEAMk8kQx5Fhqf9MaynKdvozMjIJ-aeqbugtXqY7UQxk_twJVDor_P82hjxafbpBkqU&usqp=CAU" height="130px";/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6UdKZ0tGCgYAhQVLcxUYRn33QdvbDAp7mg&usqp=CAU" height="130px";/>
+    </main>
+    <footer style="background-color:lightblue;color:black;">
+        <p style="font-size:15px"> Адрес: Москва,авиапарк в 18:00</p>
+        
+    </footer>
+    </body>
+</html>
